@@ -50,5 +50,4 @@ A solução segue uma estratégia de **implementação em fases**, desenhada par
 * Análise de Negócios (Business Case).
 * Disaster Recovery (DR) e Continuidade de Negócios (BCP).
 
----
-*Autor: [Seu Nome]*
+

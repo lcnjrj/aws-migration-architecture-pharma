@@ -41,7 +41,7 @@ A solução segue uma estratégia de **implementação em fases**, desenhada par
 
 ## 📂 Documentação do Projeto
 
-* [📄 Relatório Completo de Implementação](RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS - hibrido)
+* [📄 Relatório Completo de Implementação](RELATÓRIO-DE-IMPLEMENTAÇÃO-DE-SERVIÇOS-AWS)
 
 
 ## 🛠️ Skills Demonstradas
